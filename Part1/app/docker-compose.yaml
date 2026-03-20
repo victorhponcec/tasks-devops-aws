@@ -1,0 +1,11 @@
+services:
+  url-lookup:
+    build: .
+    container_name: url_service
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: always
