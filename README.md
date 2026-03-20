@@ -1,6 +1,6 @@
 ## Project Structure
 
-```text
+```
 .
 ├── Part1/                          # Implementation Phase
 │   └── app/
@@ -15,7 +15,7 @@
 ├── Part2/
 │   └── README.md                   # Thought Exercise
 └── README.md                       # Quick Start
-
+```
 
 **[Part 1:](https://github.com/victorhponcec/tasks-devops-aws/tree/main/Part1/app)** Contains the App code and explanation/testing in README.md
 
