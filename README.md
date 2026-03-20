@@ -17,6 +17,6 @@
 └── README.md                       # Quick Start
 
 
-**Part 1:** Contains App code and explanation/testing in README.md: https://github.com/victorhponcec/tasks-devops-aws/tree/main/Part1/app
+**[Part 1:](https://github.com/victorhponcec/tasks-devops-aws/tree/main/Part1/app)** Contains the App code and explanation/testing in README.md
 
-**Part 2:** Contains Though Exercise: https://github.com/victorhponcec/tasks-devops-aws/tree/main/Part2
+**[Part 2:](https://github.com/victorhponcec/tasks-devops-aws/tree/main/Part2)** Contains the Though Exercise
